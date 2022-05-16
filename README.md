@@ -2,7 +2,7 @@
 
 This is a simple python script to poll USCIS case status and optionally generate email alert on status change.
 
-This is an improvement on [co89757](https://github.com/co89757)'s original script - [USCIS Case Status Polling](https://github.com/co89757/USCISCasePoll) using Python 3 and simplified email utilizing [Python Email Sender](https://github.com/dimaba/sendmail#python-email-sender)
+This is an improvement on [co89757](https://github.com/co89757)'s original script - [USCIS Case Status Polling](https://github.com/co89757/USCISCasePoll) using Python 3 and simplified email utilizing [dimaba's Python Email Sender](https://github.com/dimaba/sendmail#python-email-sender)
 
 The core script is `poll_uscis.py`
 
