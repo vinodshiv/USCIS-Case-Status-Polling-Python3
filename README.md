@@ -23,8 +23,6 @@ Within the script, update your recipient details under the EMAIL SETTINGS sectio
 ```python
 
 # ----------------- EMAIL SETTINGS -------------------
-# set up your email recipient here
-
 mailto = 'john.doe@gmail.com'
 password = 'xxxxxxx'
 smtpserver = ('smtp.gmail.com', 465)
